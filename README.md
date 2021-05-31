@@ -16,7 +16,7 @@ MATLAB script for auxiliary-function-based independent vector analysis with iter
 Coded by Daichi Kitamura
 * T. Kim, H. T. Attias, S.-Y. Lee, and T.-W. Lee, "Blind source separation exploiting higher-order frequency dependencies," IEEE Trans. Audio, Speech, and Language Processing, vol. 15, no. 1, pp. 70–79, 2007.
 * N. Ono, "Stable and fast update rules for independent vector analysis based on auxiliary function technique", IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), pp.189-192, 2011.
-* S. Robin and N. Ono, "Fast and stable blind source separation with rank-1 updates", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp.236-240, 201j20.
+* S. Robin and N. Ono, "Fast and stable blind source separation with rank-1 updates", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp.236-240, 2020.
 
 ## Python Script
 You can find Python script of AuxIVA-IP and AuxIVA-ISS in Pyroomacoustics: https://pyroomacoustics.readthedocs.io/en/pypi-release/pyroomacoustics.bss.auxiva.html#module-pyroomacoustics.bss.auxiva
